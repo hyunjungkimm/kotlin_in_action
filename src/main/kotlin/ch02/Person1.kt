@@ -1,4 +1,4 @@
-package chapter2
+package ch02
 
 import org.example.chapter2.createRandomRectangle
 
